@@ -6,6 +6,12 @@
         {
             Item item = new Item();
             item.Create();
+            Purchase purchase = new Purchase();
+            purchase.Update();
+            PurchaseOrder order = new PurchaseOrder();
+            order.Delete();
+            Category category = new Category();
+            category.Delete();
         }
     }
 }

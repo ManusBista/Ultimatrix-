@@ -10,15 +10,15 @@ namespace omnitrix
     {
         public void Create()
         {
-            Console.WriteLine("Item added Successfully");
+            Console.WriteLine("Added Successfully");
         }
         public void Update()
         {
-            Console.WriteLine("Item updated Successfully");
+            Console.WriteLine("Updated Successfully");
         }
         public void Delete()
         {
-            Console.WriteLine("Item deleted Successfully");
+            Console.WriteLine("Deleted Successfully");
         }
     }
 
